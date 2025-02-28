@@ -1,41 +1,51 @@
 [![MauriceLambert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauriceLambert&theme=dark&show_icons=true)](https://github.com/MauriceLambert)
 
-<div style="display: flex; justify-content: space-around;">
-  <div style="width: 30%; margin: 10px;">
-    <h3>&#x2764; What I Love</h3>
-    <ol>
-        <li>Python</li>
-        <li>Linux kernel</li>
-        <li>Docker</li>
-        <li>Maldev, ASM and in memory execution</li>
-        <li>Web</li>
-        <li>Privilege escalation (Linux or Active Directory)</li>
-        <li>Open source and cross platform tools without any supply chain</li>
-    </ol>
-  </div>
-  <div style="width: 30%; margin: 10px;">
-    <h3>&#x1F60A; What I Like</h3>
-    <ol>
-        <li>Debian</li>
-        <li>Rust, Nim and Go</li>
-        <li>Identifying a security problem in RFC</li>
-        <li>RCE on a Web server or exploiting web-client/browser vulnerability</li>
-        <li>Malware reverse engineering</li>
-        <li>Incident response and forensic</li>
-        <li>RFC and protocols: HTTP, SMTP, ARP, DNS (and derived: LLMNR and mMDS)</li>
-    </ol>
-  </div>
-  <div style="width: 30%; margin: 10px;">
-    <h3>&#x1F4D6; What I Want to Learn</h3>
-    <ol>
-        <li>pwn</li>
-        <li>Bug Bounty</li>
-        <li>Rust</li>
-        <li>OSINT and CTI</li>
-        <li>Web design</li>
-    </ol>
-  </div>
-</div>
+<table border="1">
+  <thead>
+    <tr>
+      <th><h3>&#x2764; What I Love</h3></th>
+      <th><h3>&#x1F60A; What I Like</h3></th>
+      <th><h3>&#x1F4D6; What I Want to Learn</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>Debian</td>
+      <td>pwn</td>
+    </tr>
+    <tr>
+      <td>Linux kernel</td>
+      <td>Rust, Nim and Go</td>
+      <td>Bug Bounty</td>
+    </tr>
+    <tr>
+      <td>Docker</td>
+      <td>Identifying a security problem in RFC</td>
+      <td>Rust</td>
+    </tr>
+    <tr>
+      <td>Maldev, ASM and in memory execution</td>
+      <td>RCE on a Web server or exploiting web-client/browser vulnerability</td>
+      <td>OSINT and CTI</td>
+    </tr>
+    <tr>
+      <td>Web</td>
+      <td>Malware reverse engineering</td>
+      <td>Web design</td>
+    </tr>
+    <tr>
+      <td>Privilege escalation (Linux or Active Directory)</td>
+      <td>Incident response and forensic</td>
+      <td>Hardware hacking</td>
+    </tr>
+    <tr>
+      <td>Open source and cross platform tools without any supply chain</td>
+      <td>RFC and protocols: HTTP, SMTP, ARP, DNS (and derived: LLMNR and mMDS)</td>
+      <td>Row 6, Cell 3</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Projects
 
