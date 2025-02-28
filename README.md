@@ -42,22 +42,29 @@
     <tr>
       <td>Open source and cross platform tools without any supply chain</td>
       <td>RFC and protocols: HTTP, SMTP, ARP, DNS (and derived: LLMNR and mMDS)</td>
-      <td>Cloud</td>
+      <td>Row 6, Cell 3</td>
     </tr>
   </tbody>
 </table>
 
-## Projects
+## Repositories
 
-### Most starred
+<table border="1">
+  <thead>
+    <tr>
+      <th><h3>&#x2b50; Most starred</h3></th>
+      <th><h3>&#x26A0;&#xFE0F; Most issued</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[![SpyWare project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=SpyWare&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/SpyWare)</td>
+      <td>[![PyObfuscator project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=PyObfuscator&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/PyObfuscator)</td>
+    </tr>
+  </tbody>
+</table>
 
-[![SpyWare project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=SpyWare&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/SpyWare)
-
-### Most issued
-
-[![PyObfuscator project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=PyObfuscator&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/PyObfuscator)
-
-### Biggest
+### &#x1F3E2; Biggest
 
 [![WebScripts project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=WebScripts&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/WebScripts)
 
