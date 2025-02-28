@@ -42,7 +42,7 @@
     <tr>
       <td>Open source and cross platform tools without any supply chain</td>
       <td>RFC and protocols: HTTP, SMTP, ARP, DNS (and derived: LLMNR and mMDS)</td>
-      <td>Row 6, Cell 3</td>
+      <td>Cloud</td>
     </tr>
   </tbody>
 </table>
