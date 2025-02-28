@@ -42,7 +42,7 @@
     <tr>
       <td>Open source and cross platform tools without any supply chain</td>
       <td>RFC and protocols: HTTP, SMTP, ARP, DNS (and derived: LLMNR and mMDS)</td>
-      <td>Row 6, Cell 3</td>
+      <td>English</td>
     </tr>
   </tbody>
 </table>
@@ -58,8 +58,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>[![SpyWare project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=SpyWare&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/SpyWare)</td>
-      <td>[![PyObfuscator project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=PyObfuscator&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/PyObfuscator)</td>
+      <td><a href="https://github.com/MauriceLambert/SpyWare"><img alt="SpyWare project" src="https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=SpyWare&cache_seconds=86400&theme=tokyonight"></a></td>
+      <td><a href="https://github.com/MauriceLambert/PyObfuscator"><img alt="PyObfuscator project" src="https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=PyObfuscator&cache_seconds=86400&theme=tokyonight"></a></td></td>
     </tr>
   </tbody>
 </table>
@@ -68,20 +68,20 @@
 
 [![WebScripts project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=WebScripts&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/WebScripts)
 
-### Maldev
+### &#x1F9A0; Maldev
 
 [![PyPeLoader project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=PyPeLoader&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/PyPeLoader)
 [![6r00tkit project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=6r00tkit&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/6r00tkit)
 [![SpywareStealer project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=SpywareStealer&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/SpywareStealer)
 [![PeInjector project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=PeInjector&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/PeInjector)
 
-### Incident response and forensic 
+### &#x1F575;&#xFE0F; Incident response and forensic 
 
 [![ProgramExecutableAnalyzer project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=ProgramExecutableAnalyzer&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/ProgramExecutableAnalyzer)
 [![CLEF project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=CLEF&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/CLEF)
 [![PDForensic project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=PDForensic&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/PDForensic)
 [![ElfAnalyzer project](https://github-readme-stats.vercel.app/api/pin/?username=MauriceLambert&repo=ElfAnalyzer&cache_seconds=86400&theme=tokyonight)](https://github.com/MauriceLambert/ElfAnalyzer)
 
-## Languages
+## &#x1F4BB; Languages &#x1F40D;
 
 [![MauriceLambert's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriceLambert&exclude_repo=mauricelambert.github.io&hide=html,css,Makefile,powershell&langs_count=20&theme=tokyonight)](https://github.com/MauriceLambert)
