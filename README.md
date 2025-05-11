@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td>Open source and cross platform tools without any supply chain</td>
-      <td>RFC and protocols: HTTP, SMTP, ARP, DNS (and derived: LLMNR and mMDS)</td>
+      <td>RFC and protocols: HTTP, SMTP, ARP, DNS (and derived: LLMNR and mMDS) and URL</td>
       <td>English</td>
     </tr>
   </tbody>
