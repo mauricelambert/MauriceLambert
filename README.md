@@ -1,4 +1,4 @@
-*My conviction: a more effective cybersecurity – powered by Purple Teaming, DevSecOps, risk-aware governance, and operational responsiveness.*
+### My conviction: a more effective cybersecurity – powered by Purple Teaming, DevSecOps, risk-aware governance, and operational responsiveness.
 
 [![MauriceLambert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauriceLambert&theme=dark&show_icons=true)](https://github.com/MauriceLambert)
 
